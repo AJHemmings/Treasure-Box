@@ -1,4 +1,4 @@
-# TreasurySettingsEditor
+# Treasure Box 
 
 A GUI to streamline settings for the popular FFXI Treasury addon.
 
