@@ -13,6 +13,3 @@ Users can add new characters and items to be dropped, passed, or lotted on. Thes
 - Unzip and place the EXE and DLLs in your `Treasury/data/` folder
 - Run `TreasurySettingsEditor.exe`
 - Edit your settings as needed
-
-## License
-MIT or your preferred license
